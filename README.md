@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/-java-4258ff?style=for-the-badge&logoColor=white&logo=openjdk&color=FF7800" alt="Java 17" />
     <img src="https://img.shields.io/badge/-Spring_Boot-black?style=for-the-badge&logoColor=white&logo=springboot&color=6DB33F" alt="Spring Boot" />
     <img src="https://img.shields.io/badge/-Elasticsearch-black?style=for-the-badge&logoColor=white&logo=elasticsearch&color=005571" alt="Spring Security" />
-    <img src="https://img.shields.io/badge/-OAuth2.0-black?style=for-the-badge&logoColor=white&logo=auth0&color=EB5424" alt="Elasticsearch" />
   </div>
 </div>
 
